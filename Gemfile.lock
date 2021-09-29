@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/sushma-v/sumalu_view_tool
+  revision: 21739e3a5c98132555e582eb47f1443b777f5011
+  specs:
+    sumalu_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -214,6 +220,7 @@ DEPENDENCIES
   sass-rails (~> 5.0)
   spring
   spring-watcher-listen (~> 2.0.0)
+  sumalu_view_tool!
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)

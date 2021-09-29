@@ -59,3 +59,5 @@ gem 'devise', '~> 4.8'
 gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
 
+gem 'sumalu_view_tool', git:'https://github.com/sushma-v/sumalu_view_tool'
+
